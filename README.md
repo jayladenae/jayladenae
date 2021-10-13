@@ -1,4 +1,4 @@
-<h1 align="center">✨Hiii! I'm Jayla Newton✨</h1>
+<h1 align="center">✨Hiii! I'm Jayla De'nae✨</h1>
 <h3 align="center">A (soon to be) full-stack developer.</h3>
 
 - All of my projects are available at: *new portfilio coming soon!*
