@@ -1,7 +1,4 @@
 <h2 align="center">Welcome to the madness, my name is Jayla :)</h2>
-
- <p>Full stack developer on a mission to deliver pixel perfect user experiences. With an emphasis on mobile-first design and development, the objective with each project is to actively immerse my audience for an overall unforgettable user experience. I'm looking forward to putting my skills to work while being a part of a highly motivated, results-driven team to create amazing applications.</p>
-
  
 
 <h3 align="left">Connect with me:</h3>
